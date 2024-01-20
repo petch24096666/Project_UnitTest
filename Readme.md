@@ -2,7 +2,6 @@
 # Unit Test for Open-Source Software Projects
 
 # By Group 1
-![tictactoe](https://github.com/petch24096666/test/assets/113789041/53c91521-0aec-4ac1-9859-29dc34e1d54b)
 
 ## 
 
